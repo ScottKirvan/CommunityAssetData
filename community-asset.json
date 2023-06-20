@@ -4,5 +4,17 @@
         "author": "Scott Kirvan",
         "repo": "ScottKirvan/Dennis",
         "screenshot": "imgs/thumbnail.png"
+    },
+    {
+        "name": "Shaderball",
+        "author": "Sskvfx",
+        "repo": "skvfx/Shaderball",
+        "screenshot": "imgs/promo.png"
+    },
+    {
+        "name": "Scooter Asset Pack",
+        "author": "Scott Kirvan",
+        "repo": "ScottKirvan/ScotterLib",
+        "screenshot": "imgs/thumbnail.png"
     }
 ]
